@@ -62,10 +62,17 @@ The Gym Management System is a desktop application designed to streamline and ma
    ```
 3. Create a Pull Request (PR) and request a review.
 
-## License
-Specify your project's license (e.g., MIT, Apache, etc.).
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 
 ## Acknowledgments
 Thanks to all team members for their contributions and dedication.
+
+## 🌟 About Me
+
+Hi there! I'm **Adel Muhammad Haiba**,I’m an CS student interested in data science and machine learning on a mission to share knowledge and make working with data enjoyable and engaging!
+
 
 
